@@ -30,7 +30,6 @@ If orientation docs drift from code (especially [`docs/architecture.md`](docs/ar
 | `test/*.test.mjs` | `node:test`; helpers in `test/helpers/`. |
 | `docs/` | Long-form docs (`docs/README.md` is the spine). |
 | `examples/` | Runnable API demos — see `examples/README.md`. |
-| `.venom/` | Optional local agent workflow / standards (**gitignored**); **not** published on npm. |
 
 ## Quality gate
 
