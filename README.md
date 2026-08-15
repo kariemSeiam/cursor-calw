@@ -6,7 +6,7 @@
 
 *`ca` / `ca2` / `ca3` on [`@cursor/sdk`](https://www.npmjs.com/package/@cursor/sdk) — audited surfaces you can script.*
 
-Maintained from **[pigo.dev](https://pigo.dev)** · web docs **[claws.pigo.dev/cursor](https://claws.pigo.dev/cursor)** · sources **[cursor-calw](https://github.com/kariemSeiam/cursor-calw)** on GitHub.
+Maintained from **[pigo.dev](https://pigo.dev)** · web docs **[claw.kariem.dev/cursor](https://claw.kariem.dev/cursor)** · sources **[cursor-calw](https://github.com/kariemSeiam/cursor-calw)** on GitHub.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-9cf?style=flat-square)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D18-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -22,7 +22,7 @@ Maintained from **[pigo.dev](https://pigo.dev)** · web docs **[claws.pigo.dev/c
 
 ---
 
-> **Canon** · **Cursor Claw** ships as **`cursor-calw`** ([npm](https://www.npmjs.com/package/cursor-calw)); repo [`kariemSeiam/cursor-calw`](https://github.com/kariemSeiam/cursor-calw); editorial [pigo.dev](https://pigo.dev); long-form docs also at [claws.pigo.dev/cursor](https://claws.pigo.dev/cursor). MIT. CLIs bind official [`@cursor/sdk`](https://www.npmjs.com/package/@cursor/sdk); **your** subscriber API key is **your** authenticated identity upstream—inspect APIs **you** fund.
+> **Canon** · **Cursor Claw** ships as **`cursor-calw`** ([npm](https://www.npmjs.com/package/cursor-calw)); repo [`kariemSeiam/cursor-calw`](https://github.com/kariemSeiam/cursor-calw); editorial [pigo.dev](https://pigo.dev); long-form docs also at [claw.kariem.dev/cursor](https://claw.kariem.dev/cursor). MIT. CLIs bind official [`@cursor/sdk`](https://www.npmjs.com/package/@cursor/sdk); **your** subscriber API key is **your** authenticated identity upstream—inspect APIs **you** fund.
 
 ## Why this exists
 

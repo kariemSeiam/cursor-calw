@@ -7,7 +7,7 @@ This repository is optimized for **humans** and **coding agents** (Cursor Agents
 | Concept | Detail |
 |---------|--------|
 | **Product** | **Cursor Claw** — CLIs `ca`, `ca2`, `ca3`, `ca3-review` on [`@cursor/sdk`](https://www.npmjs.com/package/@cursor/sdk) plus documented ConnectRPC recon. |
-| **Package / repo** | npm **`cursor-calw`** · GitHub [`kariemSeiam/cursor-calw`](https://github.com/kariemSeiam/cursor-calw) · editorial pointer [pigo.dev](https://pigo.dev). Long-form **`docs/`** in repo · public mirror [claws.pigo.dev/cursor](https://claws.pigo.dev/cursor). |
+| **Package / repo** | npm **`cursor-calw`** · GitHub [`kariemSeiam/cursor-calw`](https://github.com/kariemSeiam/cursor-calw) · editorial pointer [pigo.dev](https://pigo.dev). Long-form **`docs/`** in repo · public mirror [claw.kariem.dev/cursor](https://claw.kariem.dev/cursor). |
 | **Use posture** | For **paying Cursor subscribers** inspecting APIs they fund — not abuse tooling, credential sharing, or dark-pattern automation. |
 | **Auth / identity** | **You** run with **your** subscriber API key (**you** are the authenticated principal to Cursor’s APIs; CLIs never mean “Cursor as user”). |
 

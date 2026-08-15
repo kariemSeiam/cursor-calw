@@ -1,6 +1,6 @@
 # Cursor Claw · Documentation center
 
-Documentation for [`kariemSeiam/cursor-calw`](https://github.com/kariemSeiam/cursor-calw) · editorial [pigo.dev](https://pigo.dev) · web mirror [claws.pigo.dev/cursor](https://claws.pigo.dev/cursor).
+Documentation for [`kariemSeiam/cursor-calw`](https://github.com/kariemSeiam/cursor-calw) · editorial [pigo.dev](https://pigo.dev) · web mirror [claw.kariem.dev/cursor](https://claw.kariem.dev/cursor).
 
 **You are here:** index of `/docs/*.md`. For runnable CLIs, start from the root [README.md](../README.md). For repository topology and agent entry, read [AGENTS.md](../AGENTS.md) and [`docs/architecture.md`](./architecture.md).
 
@@ -25,7 +25,7 @@ Documentation for [`kariemSeiam/cursor-calw`](https://github.com/kariemSeiam/cur
 
 Cursor Claw documentation follows this everywhere (including root `README.md`).
 
-1. **Pack line first** on substantive docs — name *Cursor Claw*, repo + npm identifiers, license (`MIT`); link [pigo.dev](https://pigo.dev) and/or [claws.pigo.dev/cursor](https://claws.pigo.dev/cursor) when those surfaces own the voice.
+1. **Pack line first** on substantive docs — name *Cursor Claw*, repo + npm identifiers, license (`MIT`); link [pigo.dev](https://pigo.dev) and/or [claw.kariem.dev/cursor](https://claw.kariem.dev/cursor) when those surfaces own the voice.
 2. **You are reading** — one short sentence states scope before the first deep subsection.
 3. **Tables before bullet walls** for comparisons (CLI modes, endpoints, limits, errors, roles).
 4. **Single source for CLI tables:** root `README.md` unless a doc intentionally drills into one subsystem (`ca3` internals → architecture + swarm-patterns).
